@@ -7,5 +7,4 @@ print(9<=0)
 age = int(input("Enter your age:"))
 print(age >= 18)
 marks = int(input("Enter your marks: "))
-
 print(marks >= 35)
