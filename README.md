@@ -1,52 +1,75 @@
-# Python Bootcamp 🚀
+# 🚀 Python Bootcamp
 
 Welcome to my Python Bootcamp repository!
 
 ## 👨‍💻 About Me
 
-- Name: Mudassir Shaikh
-- GitHub: mudassir786-master
-- Learning: Python, Git, GitHub, DSA, AI & ML
+Hi! I'm **Mudassir Shaikh**.
 
-## 📂 Project Structure
+🎓 AI & Machine Learning Student  
+🐍 Learning Python from beginner to advanced  
+📚 Currently learning Git, GitHub, DSA, AI & ML  
+🎯 Goal: Become an AI & Machine Learning Engineer
+
+---
+
+## 📂 Repository Structure
 
 ```
 Python-Bootcamp/
 │
 ├── DAY 1/
-│
 ├── DAY 2/
-│
 ├── Mini Projects/
-│
 └── README.md
 ```
 
-## 📚 Topics Covered
+---
 
-### Day 1
-- Python Introduction
+## 📖 Topics Covered
+
+### ✅ Day 1
+- Introduction to Python
 - Variables
 - Data Types
 - Input & Output
 - Comments
 
-### Day 2
+### ✅ Day 2
 - Type Conversion
 - Operators
 - Comparison Operators
-- if
+- if Statement
 - if-else
 - Nested if
 
-### Mini Projects
+### ✅ Mini Projects
 - Calculator
 - Login Checker
 - Positive/Negative Checker
 
-## 🎯 Goal
+---
 
-To become a skilled AI & ML Engineer by learning Python, Git, GitHub, DSA, and Machine Learning step by step.
+## 🛠️ Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code
 
 ---
-⭐ Thanks for visiting my repository!
+
+## 🎯 Learning Goal
+
+I am building my skills in:
+
+- Python
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+---
+
+⭐ Thank you for visiting my repository!
